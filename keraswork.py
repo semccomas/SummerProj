@@ -1,6 +1,6 @@
 #This is from the machine learning mastery keras tutorial. I commented the living shit out of this because it's my first attempt at using keras
 
-
+#testing a new push for github ignore this line
 ########## imports ##############
 from keras.models import Sequential
 from keras.layers import Dense
